@@ -1,0 +1,2 @@
+# stream_rock_infra
+提供stream_rock所需的本地mongo，rabbitmq，redis
